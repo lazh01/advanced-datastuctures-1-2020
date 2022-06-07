@@ -1,0 +1,6 @@
+The program can be executed by running the main.py python file.
+
+When the program starts you can choose between scapegoat tree or skiplist by writing a or p.
+
+Then you write I, D or S for insert, delete or search followed by a number.
+Currently it does not flush the output so it just keeps asking for instructions.
